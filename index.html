@@ -9,24 +9,6 @@
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="jquery.cookie.js"></script>
-<script>
-<script src="jquery.cookie.js"></script>
-$(function() {
-  // Проверяем запись в куках о посещении
-  // Если запись есть - ничего не происходит
-     if (!$.cookie('hideModal')) {
-  // если cookie не установлено появится окно
-  // с задержкой 5 секунд
-    var delay_popup = 1000;
-    setTimeout("document.querySelector('.bottom__cookie-block').style.display='inline-block'", delay_popup);
-     }
-     $.cookie('hideModal', true, {
-   // Время хранения cookie в днях
-    expires: 30,
-    path: '/'
-   });
-});
-</script>
 <header class="header">
     <div class="overlay">
       <h1 class="header-title">Четыре правила вёрстки</h1>
@@ -60,10 +42,6 @@ $(function() {
     <h4 class="footer-author"></h4>
 </footer>
   <script src="//code-ya.jivosite.com/widget/mmXR2vT1ww" async></script>
-  <div class="bottom__cookie-block">
-    <p>Продолжая использовать сайт, вы соглашаетесь на сбор файлов cookie</p>
-    <a href="javascript:void(0);" class="ok">Ок</a>
-    <a href="#" class="podr">Подробнее</a>
 </div>
 </body>
 </html>
