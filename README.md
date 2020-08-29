@@ -11,7 +11,10 @@ index.html
 <html>
 <head class="header">
   <meta charset="UTF-8">
-  <title>Четыре правила вёрстки</title>
+  <title>
+  Четыре правила вёрстки
+  ----------------------
+                          </title>      
   <link rel="stylesheet" href="style.css">
    <link rel="shortcut icon" href="https://lh3.googleusercontent.com/UCgehEVAkaAq0nKhn5ZdTmDjU6SPE0I-DJfl0NLFivj2PVB56h2wMiAiAD2-UH5GJICV_4h5v7ECdKpcl15weCf3HVj8gT7W7_ZpaoMagOPMbfMvfL-UVva52p4OVuwOC-CwDZHBYV0XOFzDzvCeL9TYIn2Sjg4DudWQWkHUaFrV_gn5o_MlCKz2rGMbifsTqWuy3yu1F9bQF2SjqADrYmvnKrQFqOQ8MAehW4JyKk0wk8ktiuP6tJNWWphHaS5aahUvlOBkIeF7hIHUB3QI97brFb8XKqWd2ezV6PS2YXVAUm4mNiFZRt5cbdkxTz5YnmFUO3bFD-gXaFsmEaS02Ithysv3ojVbygPsDEL5xySTTZnqML14LjnHzT8sEGn0wfR_fRYPxbBXEuDbt7uk0OzOGvxi-Ebt8QCLkSCgp8LSjegeczt1-Y9SmQL4OmMz1pHzxwwS8xCoRelyvfMEzVkK_5ieyQnIVJEccIjsBMZA3XrHA4FmjqRBgpl6QT_TOP73s_c5xkpRCfx3dH23zlUKhf8mR25vQPMhtPbEYvLAuCMF5XhHRZCLBzrdICeEO9St-XLa6aqRtPcyTjVW3U_hoTQkvL8y7aEihLRvxhWc6g6tNpl-uu3s1h3Sr5f0M1MI7K7Kwbp1XPswpUit_O6pHmFz7orvp8PAwUd1NXkZGdeuXkJfpe8jC2FU3eY=w328-h249-no?authuser=0" type="image/x-icon">
 </head>
